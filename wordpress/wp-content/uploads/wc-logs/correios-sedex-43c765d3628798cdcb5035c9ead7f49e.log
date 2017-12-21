@@ -1,0 +1,465 @@
+12-18-2017 @ 16:37:41 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:37:41 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:37:47 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 3
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => S
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-18-2017 @ 16:37:57 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:37:57 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:38:02 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:38:02 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:38:02 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 3
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => S
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-18-2017 @ 16:38:06 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 3
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => S
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-18-2017 @ 16:38:14 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:38:14 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:38:18 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 3
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => S
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-18-2017 @ 16:38:55 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:38:55 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:39:00 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 3
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => S
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-18-2017 @ 16:39:08 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:39:08 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:39:12 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+
+12-18-2017 @ 16:39:20 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:39:20 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:39:24 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+
+12-18-2017 @ 16:39:42 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:39:42 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:39:46 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+
+12-18-2017 @ 16:44:06 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:44:06 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:44:12 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+
+12-18-2017 @ 16:44:22 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:44:22 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:44:27 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+
+12-18-2017 @ 16:44:38 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:44:38 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:44:42 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+
+12-18-2017 @ 16:44:46 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:44:46 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:44:50 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+
+12-18-2017 @ 16:44:54 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:44:54 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:44:59 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+
+12-18-2017 @ 16:45:31 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:45:31 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:45:36 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+
+12-18-2017 @ 16:46:53 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:46:53 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:46:58 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 16,10
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 011
+            [MsgErro] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+            [obsFim] => O CEP de destino está sujeito a condições especiais de entrega  pela  ECT e será realizada com o acréscimo de até 7 (sete) dias úteis ao prazo regular.
+        )
+
+)
+

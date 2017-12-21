@@ -1,0 +1,510 @@
+12-18-2017 @ 16:37:51 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:37:51 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:37:54 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:38:07 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:38:07 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:38:10 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:38:10 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:38:10 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:38:13 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:38:22 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:38:22 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:38:26 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:39:04 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:39:04 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=03125100&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:39:08 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:39:15 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:39:15 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:39:20 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:39:29 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:39:29 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:39:40 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:39:52 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:39:52 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:39:56 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:44:17 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:44:17 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:44:22 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:44:33 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:44:33 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:44:38 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:44:49 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:44:49 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:44:53 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:44:55 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:44:55 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:45:00 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:45:03 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:45:03 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:45:08 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:45:43 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:45:43 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:45:48 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+
+12-18-2017 @ 16:47:02 - Weight and cubage of the order: Array
+(
+    [weight] => 0,25
+    [height] => 5
+    [width] => 11
+    [length] => 16
+)
+
+12-18-2017 @ 16:47:02 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=81019&nCdEmpresa&sDsSenha&sCepDestino=08577560&sCepOrigem=04052010&nVlAltura=5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,25&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=17&sCdAvisoRecebimento=N&StrRetorno=xml
+12-18-2017 @ 16:47:06 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 81019
+            [Valor] => 0
+            [PrazoEntrega] => 0
+            [ValorMaoPropria] => 0
+            [ValorAvisoRecebimento] => 0
+            [ValorValorDeclarado] => 0
+            [ValorSemAdicionais] => 0
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 001
+            [MsgErro] => Os serviços da família e-sedex foram inativados dia 19/06/2017.
+        )
+
+)
+

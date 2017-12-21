@@ -1,0 +1,372 @@
+2017-11-12T22:00:56+00:00 CRITICAL Uncaught Error: Call to undefined method DateTime::format() in C:\wamp64\www\wordpress\wp-includes\formatting.php:3003
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php(718): get_gmt_from_date('2017-11-11 22:4...')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-customer.php(783): WC_Data->set_date_prop('date_created', '2017-11-11 22:4...')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php(605): WC_Customer->set_date_created('2017-11-11 22:4...')
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store.php(155): WC_Data->set_props(Array)
+#4 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(147): WC_Customer_Data_Store->read(Object(WC_Customer))
+#5 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-customer.php(105): WC_Data_Store->read(Object(WC_Customer))
+#6 C:\wam
+
+2017-11-12T22:00:56+00:00 CRITICAL Uncaught Error: Call to undefined method DateTime::format() in C:\wamp64\www\wordpress\wp-includes\formatting.php:3003
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php(718): get_gmt_from_date('2017-11-11 22:4...')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-customer.php(783): WC_Data->set_date_prop('date_created', '2017-11-11 22:4...')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php(605): WC_Customer->set_date_created('2017-11-11 22:4...')
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store.php(155): WC_Data->set_props(Array)
+#4 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(147): WC_Customer_Data_Store->read(Object(WC_Customer))
+#5 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-customer.php(105): WC_Data_Store->read(Object(WC_Customer))
+#6 C:\wam
+
+2017-11-13T19:08:31+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T19:08:31+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:41:58+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:41:59+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:41:59+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:41:59+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:10+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:10+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:16+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:17+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:22+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:24+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:35+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:35+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:41+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:48+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:42:55+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:43:01+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:43:10+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:43:35+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:43:42+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:43:48+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-13T22:44:54+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:00:14+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:13:03+00:00 CRITICAL Uncaught MercadoPagoException: Failed to connect to api.mercadopago.com port 443: Timed out in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\
+
+2017-11-14T19:15:40+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:22:00+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:22:01+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:22:01+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:22:12+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:22:13+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:22:13+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:24:13+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-14T19:24:13+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:879
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(976): MPRestClient::exec(Array, '3.0.3')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(488): MPRestClient::get(Array, '3.0.3')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(112): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(104): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(298): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-incl
+
+2017-11-21T20:30:29+00:00 CRITICAL SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl' : failed to load external entity "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl"
+
+
+2017-12-06T21:52:09+00:00 CRITICAL SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl' : failed to load external entity "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl"
+
+
+2017-12-06T21:52:09+00:00 CRITICAL SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl' : failed to load external entity "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl"
+
+
+2017-12-13T19:03:03+00:00 CRITICAL SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl' : failed to load external entity "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl"
+
+
